@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "jurisdiction": "Singapore",
+  "publisher": "Ministry of Manpower",
+  "last_reviewed": "2026-07-15",
+  "resources": [
+    {
+      "id": "mom-mdw-employers-guide",
+      "title": "Employers' guide: migrant domestic worker",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide",
+      "topics": ["employer-responsibilities", "employment-rules"]
+    },
+    {
+      "id": "mom-mdw-employer-requirements",
+      "title": "Employer requirements",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/employer-requirements",
+      "topics": ["eligibility", "eop"]
+    },
+    {
+      "id": "mom-mdw-apply-work-permit",
+      "title": "Apply for a Work Permit for a migrant domestic worker",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/apply-for-work-permit",
+      "topics": ["work-permit", "application", "arrival"]
+    },
+    {
+      "id": "mom-mdw-transfer",
+      "title": "Transfer a migrant domestic worker to a new employer",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/transfer-to-a-new-employer",
+      "topics": ["transfer", "handover"]
+    },
+    {
+      "id": "mom-mdw-contracts-safety",
+      "title": "Contracts and safety agreement",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement",
+      "topics": ["contract", "safety-agreement"]
+    },
+    {
+      "id": "mom-mdw-insurance",
+      "title": "Insurance requirements",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements",
+      "topics": ["insurance", "security-bond"]
+    },
+    {
+      "id": "mom-mdw-employment-rules",
+      "title": "Employment rules for migrant domestic workers",
+      "url": "https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/employment-rules",
+      "topics": ["employment-rules", "employer-responsibilities"]
+    }
+  ]
+}
