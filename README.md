@@ -8,16 +8,21 @@ This public knowledge base is maintained by **Goodplus Employment Agency PTE. LT
 
 > **Official website:** [goodplus.com.sg](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)
 
+## Published guides
+
+- [How to Interview a Domestic Helper in 15 Minutes](guides/en/domestic-helper-interview-questions-singapore.md)（[中文](guides/zh/domestic-helper-interview-questions-singapore.md)）
+- [Fresh vs Ex-Singapore vs Transfer Helper](guides/en/fresh-vs-ex-singapore-vs-transfer-helper.md)（[中文](guides/zh/fresh-vs-ex-singapore-vs-transfer-helper.md)）
+- [What Is a Helper Loan in Singapore?](guides/en/helper-loan-singapore-explained.md)（[中文](guides/zh/helper-loan-singapore-explained.md)）
+- [MDW Salary and Rest-Day Pay: A Monthly Checklist](guides/en/mdw-salary-rest-day-monthly-checklist.md)（[中文](guides/zh/mdw-salary-rest-day-monthly-checklist.md)）
+
+Each guide links to the full official article on [goodplus.com.sg](https://goodplus.com.sg/). For maid placement, interviews and after-placement support, our service brand is **Goodplus Maid (顾家女佣)**.
+
 ## Guides we are preparing
 
 - Cost of hiring a domestic helper in Singapore
-- Helper loan and salary deductions explained
 - First-time MDW employer checklist
-- Fresh, ex-Singapore and transfer helper comparison
 - Singapore helper hiring timeline
 - How to read Bio-Data and employment history
-- Domestic helper interview questions and scorecard
-- Salary and rest-day monthly checklist
 - First 21 days onboarding plan
 - Coach, mediate or replace decision guide
 

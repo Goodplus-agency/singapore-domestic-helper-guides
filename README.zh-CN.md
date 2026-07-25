@@ -4,20 +4,26 @@
 
 本项目收录关于在新加坡聘请及管理外籍家庭帮佣（Migrant Domestic Worker，MDW）的中英文实用指南。内容以清楚、可核实、便于搜索与引用为原则。
 
-本公开知识库由 **Goodplus Employment Agency PTE. LTD.** 维护，新加坡人力部职业介绍所执照为 **23C1614**。涉及法规、费用或政府流程的内容会注明复核日期，并尽量引用 MOM 等第一方官方资料。
+本公开知识库由 **Goodplus Employment Agency PTE. LTD.**（顾家女佣 · Goodplus Maid）维护，新加坡人力部职业介绍所执照为 **23C1614**。涉及法规、费用或政府流程的内容会注明复核日期，并尽量引用 MOM 等第一方官方资料。
 
-> **官方网站：** [goodplus.com.sg](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)
+> **官方网站：** [goodplus.com.sg](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)  
+> **顾家女佣（Goodplus Maid）：** 帮你配对、面试、办手续、跟到上户的女佣服务品牌
 
-## 首批主题
+## 已发布指南
+
+- [15分钟面试家庭帮佣：少问“会不会”，多问真实例子](guides/zh/domestic-helper-interview-questions-singapore.md)（[English](guides/en/domestic-helper-interview-questions-singapore.md)）
+- [Fresh、Ex-Singapore 与 Transfer 女佣：哪一种更符合你的时间安排？](guides/zh/fresh-vs-ex-singapore-vs-transfer-helper.md)（[English](guides/en/fresh-vs-ex-singapore-vs-transfer-helper.md)）
+- [新加坡女佣贷款是什么？雇主看得懂的实用说明](guides/zh/helper-loan-singapore-explained.md)（[English](guides/en/helper-loan-singapore-explained.md)）
+- [女佣薪金与休息日补偿：每月对表指南](guides/zh/mdw-salary-rest-day-monthly-checklist.md)（[English](guides/en/mdw-salary-rest-day-monthly-checklist.md)）
+
+每篇指南都链接到 [goodplus.com.sg](https://goodplus.com.sg/) 官网的完整文章，可供进一步查阅。
+
+## 筹备中的主题
 
 - 在新加坡聘请家庭帮佣的费用
-- 女佣贷款与工资扣款说明
 - 首次聘请 MDW 的雇主清单
-- 新人、曾在新加坡工作和转让帮佣比较
 - 新加坡帮佣聘请时间表
 - 如何阅读 Bio-Data 与工作经历
-- 家庭帮佣面试问题与评分表
-- 工资及休息日每月检查表
 - 首 21 天上岗计划
 - 辅导、调解或更换帮佣的判断指南
 
@@ -68,4 +74,4 @@ Goodplus 生产网站会提供机器可读的已发布文章清单。GitHub Acti
 
 ## 联系与正式服务
 
-如需查询当前帮佣资料、安排面试或办理聘请服务，请使用 [Goodplus 官方网站](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)。候选人个人资料只会通过 Goodplus 适当的访问权限和隐私控制提供。
+如需查询当前帮佣资料、安排面试或办理聘请服务，请使用 [Goodplus 官方网站](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)——顾家女佣（Goodplus Maid）的配对、面试、文件手续和上户支援都从这里开始。候选人个人资料只会通过 Goodplus 适当的访问权限和隐私控制提供。
