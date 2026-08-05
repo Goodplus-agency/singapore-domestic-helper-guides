@@ -3,7 +3,7 @@ title: "Fresh、Ex-Singapore 与 Transfer 女佣：哪一种更符合你的时�
 language: "zh-SG"
 canonical_url: "https://goodplus.com.sg/cn/blog/fresh-vs-ex-singapore-vs-transfer-helper"
 published_on: "2026-07-20"
-last_reviewed: "2026-08-01"
+last_reviewed: "2026-08-05"
 publisher: "Goodplus Employment Agency"
 mom_licence: "23C1614"
 topics: [帮佣类别, 聘请时间, 转让帮佣]
@@ -34,6 +34,7 @@ topics: [帮佣类别, 聘请时间, 转让帮佣]
 - 请她具体说说照护家人、受训或打工的经历。
 - MOM 把她当首次来新帮佣的话，要参加适应本地生活课程（SIP）。
 - 给来源国文件、出境手续、航班和抵新步骤留足时间。
+- 有些 Fresh 候选人可能还没有护照，护照申请和批准要多等一段时间。
 - 家里要有心理准备：日常安排要示范得更细、重复得更多。
 
 ### Ex-Singapore
@@ -41,6 +42,7 @@ topics: [帮佣类别, 聘请时间, 转让帮佣]
 - 通过 FDW eService 查 MOM 雇佣记录，或者请顾家女佣（Goodplus Maid）帮你查。
 - 追问实际职责、做了多久、为什么离开——记录本身不会告诉你这些。
 - 别忘了她还要走海外、航程、保险、抵新和工作准证手续。
+- Ex-Singapore 候选人通常已有有效护照，少了办护照这一环，准备时间可以缩短。
 
 ### Transfer
 
@@ -48,6 +50,7 @@ topics: [帮佣类别, 聘请时间, 转让帮佣]
 - 直接转让的话，MOM 要求在现有准证还有超过30天效期时完成前两步。
 - 现雇主必须批准转让请求。
 - MOM 说申请一般一周内有结果；批下来后，新准证要在批准后21天和现准证到期日两者中较早的那天前签发。
+- 转让分两种：女佣还挂在现雇主名下直接转，或者已经转到中介名下。两种情况都要 MOM 批准新准证；如果已经在中介名下，她还要到 MOM 服务中心办理登记和指纹采集，多一步，要提前安排。
 - 没确认批准和交接日期前，不要承诺开工时间。
 
 ## 按你的情况选
@@ -59,6 +62,8 @@ topics: [帮佣类别, 聘请时间, 转让帮佣]
 
 不管选哪一类，[顾家女佣（Goodplus Maid）](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo)都会帮你查记录、对时间线、办 MOM 手续，直到女佣顺利上户。
 
+如果转让女佣的前雇主是 Goodplus 客户，雇佣关系结束时我们会请前雇主填写反馈问卷，并附在女佣档案里——面试时可以请我们调出来给你看。
+
 ## 官方资料
 
 - [MOM：首次来新帮佣定义](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility)
@@ -68,6 +73,6 @@ topics: [帮佣类别, 聘请时间, 转让帮佣]
 ## 关于本指南
 
 发布日期：**2026-07-20**  
-最后复核：**2026-08-01**
+最后复核：**2026-08-05**
 
 由 **Goodplus Employment Agency PTE. LTD.**（顾家女佣 · Goodplus Maid）维护，人力部职业介绍所执照 **23C1614**。本文仅供一般参考，并非 MOM 或新加坡政府刊物。

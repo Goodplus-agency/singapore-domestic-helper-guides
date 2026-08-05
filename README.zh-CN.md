@@ -15,12 +15,12 @@
 - [Fresh、Ex-Singapore 与 Transfer 女佣：哪一种更符合你的时间安排？](guides/zh/fresh-vs-ex-singapore-vs-transfer-helper.md)（[English](guides/en/fresh-vs-ex-singapore-vs-transfer-helper.md)）
 - [新加坡女佣贷款是什么？雇主看得懂的实用说明](guides/zh/helper-loan-singapore-explained.md)（[English](guides/en/helper-loan-singapore-explained.md)）
 - [女佣薪金与休息日补偿：每月对表指南](guides/zh/mdw-salary-rest-day-monthly-checklist.md)（[English](guides/en/mdw-salary-rest-day-monthly-checklist.md)）
+- [新加坡请家庭帮佣的费用：一次性支出与每月预算](guides/zh/cost-hiring-domestic-helper-singapore.md)（[English](guides/en/cost-hiring-domestic-helper-singapore.md)）
 
 每篇指南都链接到 [goodplus.com.sg](https://goodplus.com.sg/) 官网的完整文章，可供进一步查阅。
 
 ## 筹备中的主题
 
-- 在新加坡聘请家庭帮佣的费用
 - 首次聘请 MDW 的雇主清单
 - 新加坡帮佣聘请时间表
 - 如何阅读 Bio-Data 与工作经历

@@ -3,7 +3,7 @@ title: "Fresh vs Ex-Singapore vs Transfer Helper"
 language: "en-SG"
 canonical_url: "https://goodplus.com.sg/blog/fresh-vs-ex-singapore-vs-transfer-helper"
 published_on: "2026-07-20"
-last_reviewed: "2026-07-25"
+last_reviewed: "2026-08-05"
 publisher: "Goodplus Employment Agency"
 mom_licence: "23C1614"
 topics: [helper-types, hiring-timeline, transfer-helper]
@@ -34,6 +34,7 @@ These are common market descriptions, not official grades of ability or characte
 - Ask for specific examples from household care, training or paid employment.
 - If MOM treats her as a first-time helper, the Settling-In Programme is required.
 - Allow for source-country documents, travel clearance, flights and arrival steps.
+- Some Fresh candidates may not yet have a passport; passport application and approval add extra waiting time.
 - Plan additional time to demonstrate and reinforce your household routines.
 
 ### Ex-Singapore helper
@@ -41,6 +42,7 @@ These are common market descriptions, not official grades of ability or characte
 - Check the MOM employment record through FDW eService or ask the employment agency to check.
 - Ask about actual duties, contract duration and reasons for leaving; the record alone does not explain these.
 - Remember that overseas travel, insurance, arrival and Work Permit steps still apply.
+- Ex-Singapore candidates usually already hold a valid passport from previous overseas work, which can shorten the preparation timeline.
 
 ### Transfer helper
 
@@ -48,6 +50,7 @@ These are common market descriptions, not official grades of ability or characte
 - For a direct transfer, MOM says the initial steps must be completed while the current Work Permit has more than 30 days’ validity.
 - The current employer must approve the transfer request.
 - MOM states that the application outcome is generally available within one week. If approved, the new Work Permit must be issued by the earlier of 21 days from approval or the current permit’s expiry.
+- Transfers come in two scenarios: the helper is still under the current employer’s name and transfers directly, or she has already been transferred to the agency’s name. MOM must approve the new Work Permit in either case; if she is already under the agency’s name, she must also visit the MOM Services Centre for registration and fingerprinting.
 - Do not promise a start date until approval and the agreed handover date are confirmed.
 
 ## A practical decision rule
@@ -59,6 +62,8 @@ These are common market descriptions, not official grades of ability or characte
 
 Whichever type you choose, Goodplus Maid (顾家女佣) can check records, align the timeline and handle the MOM paperwork until your helper is placed. Ask us at [goodplus.com.sg](https://goodplus.com.sg/?utm_source=github&utm_medium=knowledge-repository&utm_campaign=geo).
 
+If a transfer helper’s previous employer was a Goodplus client, the ex-employer’s feedback questionnaire is attached to her profile when the employment ends — ask us to show you the record during the interview.
+
 ## Official sources
 
 - [MOM: First-time-helper criteria](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/fdw-eligibility)
@@ -68,6 +73,6 @@ Whichever type you choose, Goodplus Maid (顾家女佣) can check records, align
 ## About this guide
 
 Published: **2026-07-20**  
-Last reviewed: **2026-07-25**
+Last reviewed: **2026-08-05**
 
 Maintained by **Goodplus Employment Agency PTE. LTD.** (Goodplus Maid · 顾家女佣), MOM Employment Agency Licence **23C1614**. This is general information and not an MOM or Singapore Government publication.

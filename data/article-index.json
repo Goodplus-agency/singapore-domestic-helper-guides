@@ -3,8 +3,23 @@
   "publisher": "Goodplus Employment Agency PTE. LTD.",
   "mom_licence": "23C1614",
   "official_website": "https://goodplus.com.sg/",
-  "updated_on": "2026-08-01",
+  "updated_on": "2026-08-05",
   "articles": [
+    {
+      "key": "en:cost-hiring-domestic-helper-singapore",
+      "locale": "en",
+      "language": "en-SG",
+      "slug": "cost-hiring-domestic-helper-singapore",
+      "translation_key": "cost-hiring-domestic-helper-singapore",
+      "title": "Cost of Hiring a Domestic Helper in Singapore: One-Off and Monthly Budget",
+      "canonical_url": "https://goodplus.com.sg/blog/cost-hiring-domestic-helper-singapore",
+      "github_path": "guides/en/cost-hiring-domestic-helper-singapore.md",
+      "source_path": "resources/content/blog/en/cost-hiring-domestic-helper-singapore.md",
+      "source_hash": "b156c93b5d354e20ae420d40bd5b49a4de2c6b9422e28dd7ab5b61d47b90612b",
+      "published_at": "2026-08-05T14:21:35+08:00",
+      "last_modified": "2026-08-03",
+      "synced_on": "2026-08-05"
+    },
     {
       "key": "en:domestic-helper-interview-questions-singapore",
       "locale": "en",
@@ -15,10 +30,10 @@
       "canonical_url": "https://goodplus.com.sg/blog/domestic-helper-interview-questions-singapore",
       "github_path": "guides/en/domestic-helper-interview-questions-singapore.md",
       "source_path": "resources/content/blog/en/domestic-helper-interview-questions-singapore.md",
-      "source_hash": "7ab568a7763400fb041cc969ff8b5317a3a651b186e3d697f92812d7f06717af",
+      "source_hash": "67999d64c94a8c41976fd4f8a888bb89e22c431316dd1cc2a1e2a436a879060b",
       "published_at": "2026-07-16T02:35:31+08:00",
-      "last_modified": "2026-07-14",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "en:fresh-vs-ex-singapore-vs-transfer-helper",
@@ -30,10 +45,10 @@
       "canonical_url": "https://goodplus.com.sg/blog/fresh-vs-ex-singapore-vs-transfer-helper",
       "github_path": "guides/en/fresh-vs-ex-singapore-vs-transfer-helper.md",
       "source_path": "resources/content/blog/en/fresh-vs-ex-singapore-vs-transfer-helper.md",
-      "source_hash": "265d2abb322d0ce5190e59b83fc89701282fe6b119e7c4c1fd8aaa4a41d0dece",
+      "source_hash": "55a885ce5e3d2187b1e87b42a48220af772170b19a751ace870b8eb5b9789f1c",
       "published_at": "2026-07-20T01:07:00+08:00",
-      "last_modified": "2026-07-19",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "en:helper-loan-singapore-explained",
@@ -45,10 +60,10 @@
       "canonical_url": "https://goodplus.com.sg/blog/helper-loan-singapore-explained",
       "github_path": "guides/en/helper-loan-singapore-explained.md",
       "source_path": "resources/content/blog/en/helper-loan-singapore-explained.md",
-      "source_hash": "54e91561a1f7aa613f6c2b5dea0c992bd335253f6bc800c545dfd4b3cb7c9012",
+      "source_hash": "b502cf6a99bf864991f6522cef410ee207eacac4a3f43ef9c2ca00cf3f04da2f",
       "published_at": "2026-07-25T01:06:51+08:00",
-      "last_modified": "2026-07-14",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "en:mdw-salary-rest-day-monthly-checklist",
@@ -60,10 +75,25 @@
       "canonical_url": "https://goodplus.com.sg/blog/mdw-salary-rest-day-monthly-checklist",
       "github_path": "guides/en/mdw-salary-rest-day-monthly-checklist.md",
       "source_path": "resources/content/blog/en/mdw-salary-rest-day-monthly-checklist.md",
-      "source_hash": "cf1b91ee2ded0b69f7e1ec0acf0218802be8575075e68940bd219fabde67644a",
+      "source_hash": "8c546ea1d4efb8f888c011a72ab22a04626fd8363094bf2adbe252b7872d425a",
       "published_at": "2026-07-31T18:24:19+08:00",
-      "last_modified": "2026-07-31",
-      "synced_on": "2026-08-01"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
+    },
+    {
+      "key": "zh:cost-hiring-domestic-helper-singapore",
+      "locale": "zh",
+      "language": "zh-SG",
+      "slug": "cost-hiring-domestic-helper-singapore",
+      "translation_key": "cost-hiring-domestic-helper-singapore",
+      "title": "新加坡请家庭帮佣的费用：一次性支出与每月预算",
+      "canonical_url": "https://goodplus.com.sg/cn/blog/cost-hiring-domestic-helper-singapore",
+      "github_path": "guides/zh/cost-hiring-domestic-helper-singapore.md",
+      "source_path": "resources/content/blog/zh/cost-hiring-domestic-helper-singapore.md",
+      "source_hash": "5b014bc8a49b7fa494e83b51fe24b91785cf5a4910023ffa889ff3f054276405",
+      "published_at": "2026-08-05T14:21:43+08:00",
+      "last_modified": "2026-08-03",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "zh:domestic-helper-interview-questions-singapore",
@@ -71,14 +101,14 @@
       "language": "zh-SG",
       "slug": "domestic-helper-interview-questions-singapore",
       "translation_key": "domestic-helper-interview",
-      "title": "15分钟面试家庭帮佣：多问真实例子",
+      "title": "15分钟面试家庭帮佣：少问“会不会”，多问真实例子",
       "canonical_url": "https://goodplus.com.sg/cn/blog/domestic-helper-interview-questions-singapore",
       "github_path": "guides/zh/domestic-helper-interview-questions-singapore.md",
       "source_path": "resources/content/blog/zh/domestic-helper-interview-questions-singapore.md",
-      "source_hash": "863a3140e33ba153b8987ece1354c6ac9648c94e6f3663abc6d97af6128a1d4d",
+      "source_hash": "1e1b98bffd4d978bb8f374fc5fb83126cc5e6c4af0c7954f4ff0e9cf4d0ff021",
       "published_at": "2026-07-16T02:35:50+08:00",
-      "last_modified": "2026-07-15",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "zh:fresh-vs-ex-singapore-vs-transfer-helper",
@@ -86,14 +116,14 @@
       "language": "zh-SG",
       "slug": "fresh-vs-ex-singapore-vs-transfer-helper",
       "translation_key": "helper-type-and-timeline",
-      "title": "Fresh、Ex-Singapore 与 Transfer 女佣比较",
+      "title": "Fresh、Ex-Singapore 与 Transfer 女佣：哪一种更符合你的时间安排？",
       "canonical_url": "https://goodplus.com.sg/cn/blog/fresh-vs-ex-singapore-vs-transfer-helper",
       "github_path": "guides/zh/fresh-vs-ex-singapore-vs-transfer-helper.md",
       "source_path": "resources/content/blog/zh/fresh-vs-ex-singapore-vs-transfer-helper.md",
-      "source_hash": "29b031024740c47d155247ca929d089f3ed1c77a5f24869280fd2ac0cc2f7859",
+      "source_hash": "f8406a7cdcb6f86b0f759b5af9c3b9d8dacb8ed30552feeee64e88d250da418f",
       "published_at": "2026-07-20T01:07:15+08:00",
-      "last_modified": "2026-07-19",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "zh:helper-loan-singapore-explained",
@@ -101,14 +131,14 @@
       "language": "zh-SG",
       "slug": "helper-loan-singapore-explained",
       "translation_key": "helper-loan-explained",
-      "title": "新加坡女佣贷款是什么？",
+      "title": "新加坡女佣贷款是什么？雇主看得懂的实用说明",
       "canonical_url": "https://goodplus.com.sg/cn/blog/helper-loan-singapore-explained",
       "github_path": "guides/zh/helper-loan-singapore-explained.md",
       "source_path": "resources/content/blog/zh/helper-loan-singapore-explained.md",
-      "source_hash": "257a66af9b555575ddecf53812c773f38f63f39ae059a3d7202b27b6797e691b",
+      "source_hash": "570611dceedce86be143306f356f863cf522e955db368e78b832e28bdf592965",
       "published_at": "2026-07-25T01:06:44+08:00",
-      "last_modified": "2026-07-15",
-      "synced_on": "2026-07-25"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     },
     {
       "key": "zh:mdw-salary-rest-day-monthly-checklist",
@@ -120,10 +150,10 @@
       "canonical_url": "https://goodplus.com.sg/cn/blog/mdw-salary-rest-day-monthly-checklist",
       "github_path": "guides/zh/mdw-salary-rest-day-monthly-checklist.md",
       "source_path": "resources/content/blog/zh/mdw-salary-rest-day-monthly-checklist.md",
-      "source_hash": "9648c26fa8edcf0bb4b0d3639919a6f5650b51448373e15b81840252e72e2ee3",
+      "source_hash": "1d8f9c94f72a2b66a33e69855b19a27c82f1aa1917ea7e6745c5feb2b9ea602b",
       "published_at": "2026-07-31T18:24:25+08:00",
-      "last_modified": "2026-07-31",
-      "synced_on": "2026-08-01"
+      "last_modified": "2026-08-04",
+      "synced_on": "2026-08-05"
     }
   ]
 }
